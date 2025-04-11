@@ -1,1 +1,32 @@
-# My-Trainz
+# My-Trainz<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Карты Trainz от Тани</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f2f2f2; margin: 0; padding: 0; }
+    header { background: #333; color: white; padding: 20px; text-align: center; }
+    .map { max-width: 800px; margin: 20px auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px #ccc; }
+    .btn { display: inline-block; padding: 10px 20px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; margin-top: 10px; }
+    img { max-width: 100%; border: 1px solid #ccc; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Карты для Trainz</h1>
+    <p>Скачивай мои карты и играй!</p>
+  </header>
+
+  <div class="map">
+    <h2>Херсон – Николаев</h2>
+    <p>Реалистичная карта с маршрутами и станциями. Создана по настоящей железной дороге.</p>
+    <img src="screenshot.jpg" alt="Скриншот карты">
+    <br>
+    <a class="btn" href="https://твоя-ссылка-на-файл.zip" target="_blank">Скачать карту</a>
+    <br><br>
+    <a class="btn" style="background:#007bff;" href="https://send.monobank.ua/jar/ТВОЙ_ID" target="_blank">Поддержать автора</a>
+  </div>
+</body>
+</html>
+
+ 
